@@ -1,3 +1,5 @@
+#!/usr/local/bin/python3
+
 def eggs(someParameter):
     someParameter.append('Hello')
 
