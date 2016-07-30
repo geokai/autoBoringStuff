@@ -3,5 +3,8 @@
 name = 'Zophie'
 
 for i in name:
-    print ('* * * ' + i + ' * * *')
+    if name.index(i) % 2 == 0:
+        print ('* * * ' + i + ' * * *')
+    else:
+        print (' * *  ' + i + '  * * ')
 
