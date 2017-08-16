@@ -1,4 +1,3 @@
-# python_boring
+## autoBoringStuff
 
-Automate The Boring Stuff with Python - Tutorial
-https://automatetheboringstuff.com/ by Al Sweigart
+[Automate The Boring Stuff with Python - Tutorial](https://automatetheboringstuff.com/ 'Al Sweigart') by Al Sweigart
