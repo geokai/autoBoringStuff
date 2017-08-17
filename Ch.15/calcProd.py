@@ -10,5 +10,10 @@ def calcProd():
 startTime = time.time()
 prod = calcProd()
 endTime = time.time()
+
+startTime2 = time.time()
 print('The result is %s digits long.' % (len(str(prod))))
-print('Took %s seconds to calculate.' % (endTime - startTime))
+endTime2 = time.time()
+
+print('Took %s seconds to calculate,' % (endTime - startTime))
+print('and %s seconds to count the digits.' % (endTime2 - startTime2))
